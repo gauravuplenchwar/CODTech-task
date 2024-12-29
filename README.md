@@ -29,3 +29,4 @@ Benefits:-Increased efficiency.
 Challenges:-Data security.
 -System maintenance.
 -User training.
+![Screenshot (2)](https://github.com/user-attachments/assets/823e96d4-2506-409e-b70d-bf7402b311d3)
